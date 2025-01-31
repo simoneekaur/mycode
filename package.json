@@ -1,0 +1,31 @@
+{
+  "name": "vidyavihar",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.4.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^8.49.0",
+    "@tailwindcss/postcss": "^4.0.0",
+    "@types/react": "^18.0.30",
+    "@types/react-dom": "^18.0.13",
+    "@vitejs/plugin-react": "^4.1.0",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.49.0",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "postcss": "^8.5.1",
+    "tailwindcss": "^3.4.17",
+    "vite": "^4.4.5"
+  }
+}
